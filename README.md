@@ -27,3 +27,16 @@ This repository contains all the tasks completed as part of the **Data Science I
 🔹 Replay Option: Included a feature to play multiple rounds based on user input.
 
 🔹 User-Friendly Interface: Designed with simple text-based UI for easy understanding and engagement.
+
+### 🔹 Task 2: ✅ To-Do List Application – Project Summary
+
+🔹 Built using Python (CLI/GUI) to manage and track daily tasks.
+
+🔹 Features: Add, view, edit, delete, and mark tasks as complete/incomplete.
+
+🔹 Used lists/dictionaries or file handling for task storage.
+
+🔹 Focused on productivity, clean user interaction, and efficient task management.
+
+🔹 Enhanced skills in Python, problem-solving, and UX design.
+
