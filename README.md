@@ -1,56 +1,53 @@
-# Rock 🪨 Paper 📄  Scissors ✂️ Game
-🚀 Project Spotlight: Rock-Paper-Scissors Game (Task 4) 🎮
+# CODSOFT
+# PYTHON 2025
+This repository contains all the tasks completed as part of the **PYTHON Internship** offered by **CodSoft** in the June 2025 batch.
+---
+## ✅ Tasks Completed
 
-Excited to share a fun and engaging project I recently completed — a Rock-Paper-Scissors game built using Python! This project may seem simple on the surface, but it taught me the importance of structuring logic, handling user input, and creating an interactive, user-friendly experience.
+### 🔹 Task 1: rock, paper, scissors.
+✅ Rock-Paper-Scissors Game – Task 4 Summary
 
-🔹 Key Features:
+🔹 User Interaction: Prompted user to choose between rock, paper, or scissors with clear instructions.
 
-⋆ Real-time user input and random computer selection
+🔹 Random Computer Move: Used Python’s random module to generate computer’s choice.
 
-⋆ Game logic to determine the winner (Rock 🪨 beats Scissors ✂️, Scissors beats Paper 📄, and Paper beats Rock)
+🔹 Game Logic: Implemented rules to determine the winner:
 
-⋆ Displays both user and computer choices, along with the result (Win, Lose, Tie)
+Rock beats Scissors
 
-⋆ Score tracking for multiple rounds
+Scissors beat Paper
 
-⋆ Option to play again, making it dynamic and replayable
+Paper beats Rock
 
-⋆ Clear, user-centric interface for a smooth gameplay experience
+🔹 Result Display: Clearly showed both user’s and computer’s choices and the outcome (Win/Lose/Tie).
 
-# 🧠 Tools & Tech
-⋆ python
+🔹 Score Tracking (Optional Feature): Maintained and displayed scores for both user and computer over multiple rounds.
 
-⋆ Random Module
+🔹 Replay Option: Included a feature to play multiple rounds based on user input.
 
-⋆ Loops
+🔹 User-Friendly Interface: Designed with simple text-based UI for easy understanding and engagement.
 
-⋆ Conditionals
+### 🔹 Task 2: ✅ To-Do List Application – Project Summary
 
-# DEMO
+🛠️ Project Goal: Developed a Python-based To-Do List application to help users manage and organize daily tasks efficiently.
 
---- Round 1 ---
-Choose rock, paper, or scissors: rock
-You chose: rock
-Computer chose: rock
-It's a tie!
-Score - You: 0 | Computer: 0
-Play another round? (y/n): y
+💻 Interface: Built as a command-line or GUI-based application for better usability and flexibility.
 
---- Round 2 ---
-Choose rock, paper, or scissors: paper
-You chose: paper
-Computer chose: paper
-It's a tie!
-Score - You: 0 | Computer: 0
-Play another round? (y/n): y
+➕ Core Features:
 
---- Round 3 ---
-Choose rock, paper, or scissors: scissors
-You chose: scissors
-Computer chose: paper
-You win this round!
-Score - You: 1 | Computer: 0
-Play another round? (y/n) n
-Thanks for playing
+Add new tasks
 
+View and list all tasks
+
+Update existing tasks
+
+Mark tasks as completed
+
+Delete tasks
+
+📦 Data Handling: Used file handling or simple database (e.g., JSON or SQLite) to store and retrieve tasks persistently.
+
+✅ User-Friendly: Focused on clear instructions and intuitive user interaction.
+
+🚀 Learning Outcome: Strengthened understanding of Python, data structures, and CRUD operations.
 
