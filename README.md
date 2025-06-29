@@ -1,56 +1,29 @@
-# Rock 🪨 Paper 📄  Scissors ✂️ Game
-🚀 Project Spotlight: Rock-Paper-Scissors Game (Task 4) 🎮
+# CODSOFT
 
-Excited to share a fun and engaging project I recently completed — a Rock-Paper-Scissors game built using Python! This project may seem simple on the surface, but it taught me the importance of structuring logic, handling user input, and creating an interactive, user-friendly experience.
+## 💼 CodSoft Data Science Internship - June 2025
 
-🔹 Key Features:
+This repository contains all the tasks completed as part of the **Data Science Internship** offered by **CodSoft** in the June 2025 batch.
 
-⋆ Real-time user input and random computer selection
+---
+## ✅ Tasks Completed
 
-⋆ Game logic to determine the winner (Rock 🪨 beats Scissors ✂️, Scissors beats Paper 📄, and Paper beats Rock)
+### 🔹 Task 1: rock paper scissors :
+🔹 User Interaction: Prompted user to choose between rock, paper, or scissors with clear instructions.
 
-⋆ Displays both user and computer choices, along with the result (Win, Lose, Tie)
+🔹 Random Computer Move: Used Python’s random module to generate computer’s choice.
 
-⋆ Score tracking for multiple rounds
+🔹 Game Logic: Implemented rules to determine the winner:
 
-⋆ Option to play again, making it dynamic and replayable
+⚈ Rock beats Scissors
 
-⋆ Clear, user-centric interface for a smooth gameplay experience
+⚈ Scissors beat Paper
 
-# 🧠 Tools & Tech
-⋆ python
+⚈ Paper beats Rock
 
-⋆ Random Module
+🔹 Result Display: Clearly showed both user’s and computer’s choices and the outcome (Win/Lose/Tie).
 
-⋆ Loops
+🔹 Score Tracking (Optional Feature): Maintained and displayed scores for both user and computer over multiple rounds.
 
-⋆ Conditionals
+🔹 Replay Option: Included a feature to play multiple rounds based on user input.
 
-# DEMO
-
---- Round 1 ---
-Choose rock, paper, or scissors: rock
-You chose: rock
-Computer chose: rock
-It's a tie!
-Score - You: 0 | Computer: 0
-Play another round? (y/n): y
-
---- Round 2 ---
-Choose rock, paper, or scissors: paper
-You chose: paper
-Computer chose: paper
-It's a tie!
-Score - You: 0 | Computer: 0
-Play another round? (y/n): y
-
---- Round 3 ---
-Choose rock, paper, or scissors: scissors
-You chose: scissors
-Computer chose: paper
-You win this round!
-Score - You: 1 | Computer: 0
-Play another round? (y/n) n
-Thanks for playing
-
-
+🔹 User-Friendly Interface: Designed with simple text-based UI for easy understanding and engagement.
