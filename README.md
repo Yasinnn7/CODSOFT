@@ -51,3 +51,30 @@ Delete tasks
 
 🚀 Learning Outcome: Strengthened understanding of Python, data structures, and CRUD operations.
 
+
+### 🔹 Task 3:
+🧮 Simple Python Calculator – Mini Project
+I recently built a basic calculator in Python using the if-elif structure and exception handling. 🚀
+
+🔹 Key Features:
+
+Accepts user input for two numbers
+
+Offers operations: Addition, Subtraction, Multiplication, Division
+
+Handles invalid input and division by zero gracefully
+
+Supports both numeric and symbol-based operation choices (e.g. 1 or +)
+
+🔍 This project demonstrates:
+
+Clean input/output handling
+
+Python’s try-except block for robust user interaction
+
+Foundational logic building for bigger applications
+
+💡 Perfect for beginners exploring Python fundamentals!
+
+📌 Check out the code below and feel free to build on it!
+#Python #Coding #BeginnerProjects #Calculator #PythonProjects #LearningByDoing
